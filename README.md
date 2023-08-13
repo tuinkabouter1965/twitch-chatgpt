@@ -79,7 +79,6 @@ This gives ChatGPT the ability to remember things and allow conversations instea
 
 ### OPENAI_API_KEY
 ```
- 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
 ```
 Save the Changes.
 
